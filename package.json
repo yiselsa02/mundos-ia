@@ -1,0 +1,16 @@
+{
+  "name": "mundos-ia",
+  "version": "1.0.0",
+  "description": "proyecto sobre creacion de imagenes con promps en la terminal",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "object-hash": "^3.0.0"
+  }
+}
