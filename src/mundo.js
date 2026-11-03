@@ -47,7 +47,6 @@ export function crearMundo(args) {
 
 }
 
-
 export function guardarMundo(mundo) {
 
     if (!fs.existsSync(rutaData)) {
