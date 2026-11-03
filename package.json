@@ -7,7 +7,7 @@
     "start": "node src/index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "karen santamaria",
   "license": "ISC",
   "type": "module",
   "dependencies": {
